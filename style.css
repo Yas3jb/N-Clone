@@ -121,3 +121,13 @@ body {
   justify-content: space-between;
   width: 37%;
 }
+
+@media (max-width: 1030px) {
+  .block3 {
+    width: 84%;
+  }
+
+  .registerBlock {
+    height: 350px;
+  }
+}
